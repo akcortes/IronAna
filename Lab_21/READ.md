@@ -1,5 +1,5 @@
 #CHALLENGE 1
-
+#description exercise
 CREATE TEMPORARY TABLE new_tbl
 SELECT authors.au_id,authors.au_lname,authors.au_fname,titleauthor.title_id
 FROM authors
