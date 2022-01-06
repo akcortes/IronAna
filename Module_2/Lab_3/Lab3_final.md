@@ -158,8 +158,13 @@ mean = 46.5
 
 std = 26.03
 
+Mean Calculation
 
-
+Midpoint	9.5	29.5	49.5	69.5	89.5	109.5	129.5	149.5	169.5
+Frequency*Midpoint	152	383.5	841.5	278	358	328.5	129.5	149.5	169.5
+									
+a=sum(Frequency*Midpoint)	2790								
+mean=a/sum(Frequency)	46.5								
 
 
 
