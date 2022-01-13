@@ -1,6 +1,6 @@
 
 ## Hello
-# These are the link for the google sheet!
+# These are the links for the google sheet!
 
 
 ## Forests_dashboard
